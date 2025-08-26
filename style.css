@@ -12,6 +12,16 @@ justify-content: center;
 .chamada-texto{
     margin-right: 40px;
 }
+h1{
+    font-size: 30px;
+}
+p{
+    font-size: 30px;
+}
+header{
+    font-size: 30px;
+    padding-left: 20px;
+}
 img{
     height: 200px;
 }
