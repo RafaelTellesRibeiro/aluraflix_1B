@@ -2,10 +2,21 @@ body{
     background-color: red;
     color: black;
 }
+section{
 padding-top: 80px;
 padding-bottom: 80px;
 display: flex;
-justify-content: center;
+justify-content: center; 
 }
+
 .chamada-texto{
     margin-right: 40px;
+}
+img{
+    height: 200px;
+}
+.categoria-videos{
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
