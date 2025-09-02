@@ -7,6 +7,8 @@ padding-top: 80px;
 padding-bottom: 80px;
 display: flex;
 justify-content: center; 
+padding-left: 20px;
+padding-right: 20px;
 }
 
 .chamada-texto{
@@ -25,8 +27,17 @@ header{
 img{
     height: 200px;
 }
+.chamada{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    background-color: red;
+}
 .categoria-videos{
     display: flex;
     overflow-x: auto;
     gap: 10px;
 }
+ h2{
+     font-size: 30px;
+ }   
